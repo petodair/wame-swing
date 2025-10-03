@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5acf0383-c909-4a06-805e-062fea8baa1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wame_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/JMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/JMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/controller/ContentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/controller/ContentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/enums/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/enums/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/form/JHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/form/JHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/form/work/JWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/form/work/JWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/form/work/JWorkRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/form/work/JWorkRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/manager/ContentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/manager/ContentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/model/TimeClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/model/TimeClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/service/TimeClockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/service/TimeClockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/util/DateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/util/DateConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/view/JContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/view/JContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/wame/view/JLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/wame/view/JLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/JMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/JMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/br.com/wame/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/br.com/wame/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/br.com/wame/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/br.com/wame/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/JMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/JMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/WameApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/WameApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Header.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Header.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Menu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Menu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Menu$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Menu$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/component/WidthLimiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/component/WidthLimiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/config/UIConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/config/UIConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/controller/ContentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/controller/ContentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/enums/Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/enums/Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/form/FormBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/form/FormBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/form/JHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/form/JHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/manager/ContentManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/manager/ContentManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/manager/FormManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/manager/FormManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/manager/SessionManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/manager/SessionManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/model/CardModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/model/CardModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/model/MenuModel$MenuType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/model/MenuModel$MenuType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/model/MenuModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/model/MenuModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/model/Work.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/model/Work.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/model/dto/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/model/dto/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/service/AuthService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/service/AuthService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/service/AuthService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/service/AuthService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/service/WorkService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/CellStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/CellStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ContentPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ContentPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/ListMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/MenuItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/MenuItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/PanelBorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/PanelBorder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/SearchText.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/SearchText.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/TableHeader.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/TableHeader.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/swing/TableStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/swing/TableStatus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/util/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/util/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/util/DateConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/util/DateConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/view/JRegister$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/view/JRegister$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/wame/view/JRegister.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/wame/view/JRegister.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/controller/ContentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controller/ContentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/enums/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/enums/Status.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/form/JHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/form/JHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/form/work/JWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/form/work/JWork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/form/work/JWorkRegister.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/form/work/JWorkRegister.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/manager/ContentManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/manager/ContentManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/model/TimeClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/model/TimeClock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/AuthService.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/AuthService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/service/TimeClockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/service/TimeClockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/DateConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/DateConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/JContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/JContent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/view/JLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/view/JLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/wame/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/br/com/wame/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="31IdzsmpKBpiHgB0KVfWvMvLurL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.WameApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Peterson/Documents/Projects/Java/Swing/wame",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="WameApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.wame.WameApp" />
+      <module name="wame" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.wame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WameApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5acf0383-c909-4a06-805e-062fea8baa1a" name="Changes" comment="" />
+      <created>1755215787841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755215787841</updated>
+    </task>
+    <servers />
+  </component>
+</project>
